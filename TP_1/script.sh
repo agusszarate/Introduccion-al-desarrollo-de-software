@@ -6,13 +6,13 @@ export FILENAME="alumnos"
 if [[ $1 == "-d" ]]; then
     echo "Matando entorno y proceso..."
     
-    # Buscar el PID del proceso usando ps -ef trae detalles
+    # Buscar el PID del proceso usando ps
     # grep "consolidar.sh" para filtrar el proceso
     # grep -v grep para excluir el grep anterior
-    # awk '{print $2}' para obtener el PID que seria la segunda columna
+    # awk '{print $2}' para obtener el PID que seria la primera columna
         #ps -ef | grep "consolidar.sh" | grep -v grep 
         #  501 34544     1   0 10:34PM ttys025    0:00.01 bash /Users/agustinzarate/EPNro1/consolidar.sh
-    PID=$(ps -ef | grep "consolidar.sh" | grep -v grep | awk '{print $2}')
+    PID=$(ps | grep "consolidar.sh" | grep -v grep | awk '{print $1}')
     
     # -n chequea que no sea vacio
     if [ -n "$PID" ]; then
@@ -107,7 +107,7 @@ FIN
 
                 echo "Buscando Nro_Padrón $padron..."
                 
-                grep "$padron " ~/EPNro1/salida/${FILENAME}.txt || echo "No se encontraron datos para $padron."
+                grep -w "$padron" ~/EPNro1/salida/${FILENAME}.txt || echo "No se encontraron datos para $padron."
             else
                 echo "El archivo ${FILENAME}.txt no existe en salida."
             fi

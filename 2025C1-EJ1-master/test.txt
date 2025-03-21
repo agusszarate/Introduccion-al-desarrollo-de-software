@@ -1,0 +1,60 @@
+122332	Juan Lopez	jlopez@fi.uba.ar	8
+100998	Pedro Valdez	pvaldez@fi.uba.ar	5
+89032	Carla Simone	csimone@fi.uba.ar	7
+77542	Franco Lomba	flomba@fi.uba.ar	10
+100223	Juana Pola	jpola@fi.uba.ar	4
+122435	Lucia Fernandez	lfdez@fi.uba.ar	9
+123456	Mario Rossi	mrossi@fi.uba.ar	6
+123457	Ana Gomez	agomez@fi.uba.ar	7
+123458	Luis Martinez	lmartinez@fi.uba.ar	8
+123459	Sofia Perez	sperez@fi.uba.ar	9
+
+123460	Diego Torres	dtorres@fi.uba.ar	5
+123461	Laura Sanchez	lsanchez@fi.uba.ar	6
+123462	Pablo Diaz	pdiaz@fi.uba.ar	7
+123463	Marta Ruiz	mruiz@fi.uba.ar	8
+123464	Javier Gomez	jgomez@fi.uba.ar	9
+123465	Carla Lopez	clopez@fi.uba.ar	10
+123466	Andres Fernandez	afernandez@fi.uba.ar	4
+123467	Lucia Martinez	lmartinez@fi.uba.ar	5
+123468	Juan Torres	jtorres@fi.uba.ar	6
+123469	Maria Sanchez	msanchez@fi.uba.ar	7
+
+123470	Pedro Diaz	pdiaz@fi.uba.ar	8
+123471	Ana Ruiz	aruiz@fi.uba.ar	9
+123472	Luis Gomez	lgomez@fi.uba.ar	10
+123473	Sofia Lopez	slopez@fi.uba.ar	4
+123474	Diego Fernandez	dfernandez@fi.uba.ar	5
+123475	Laura Martinez	lmartinez@fi.uba.ar	6
+123476	Pablo Torres	ptorres@fi.uba.ar	7
+123477	Marta Sanchez	msanchez@fi.uba.ar	8
+123478	Javier Diaz	jdiaz@fi.uba.ar	9
+123479	Carla Ruiz	cruiz@fi.uba.ar	10
+
+123480	Andres Gomez	agomez@fi.uba.ar	4
+123481	Lucia Lopez	llopez@fi.uba.ar	5
+123482	Juan Fernandez	jfernandez@fi.uba.ar	6
+123483	Maria Martinez	mmartinez@fi.uba.ar	7
+123484	Pedro Torres	ptorres@fi.uba.ar	8
+123485	Ana Sanchez	asanchez@fi.uba.ar	9
+123486	Luis Diaz	ldiaz@fi.uba.ar	10
+123487	Sofia Ruiz	sruiz@fi.uba.ar	4
+123488	Diego Gomez	dgomez@fi.uba.ar	5
+123489	Laura Lopez	llopez@fi.uba.ar	6
+
+123490	Pablo Fernandez	pfernandez@fi.uba.ar	7
+123491	Marta Martinez	mmartinez@fi.uba.ar	8
+123492	Javier Torres	jtorres@fi.uba.ar	9
+123493	Carla Sanchez	csanchez@fi.uba.ar	10
+123494	Andres Diaz	adiaz@fi.uba.ar	4
+123495	Lucia Ruiz	lruiz@fi.uba.ar	5
+123496	Juan Gomez	jgomez@fi.uba.ar	6
+123497	Maria Lopez	mlopez@fi.uba.ar	7
+123498	Pedro Fernandez	pfernandez@fi.uba.ar	8
+123499	Ana Martinez	amartinez@fi.uba.ar	9
+
+123500	Luis Torres	ltorres@fi.uba.ar	10
+123501	Sofia Sanchez	ssanchez@fi.uba.ar	4
+123502	Diego Diaz	ddiaz@fi.uba.ar	5
+123503	Laura Ruiz	lruiz@fi.uba.ar	6
+123504	Pablo Gomez	pgomez@fi.uba.ar	7
