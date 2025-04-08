@@ -1,8 +1,7 @@
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory
 
-app = Flask(__name__)
+app = Flask(__name__, static_folder='../static', static_url_path='/static', template_folder='../templates')
 
-# Rutas principales para las páginas HTML
 @app.route('/')
 def index():
     return render_template('index.html')
